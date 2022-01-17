@@ -33,12 +33,12 @@ background-image: linear-gradient(to right,rgb(20, 174, 245), pink);
    text-align: end;
    margin-right: 10%;
 }
-.fa {
-padding: 20px;
-font-size: 30px;
-width: 50px;
-text-align: center;
-text-decoration: none;
+     .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
 }
 
 .fa:hover {
