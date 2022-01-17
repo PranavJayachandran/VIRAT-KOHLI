@@ -1,0 +1,66 @@
+.intro
+{
+   background :   rgba(252, 252, 252, 0.3);
+   padding:10px;
+   margin:10px;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+header{
+   position: fixed; 
+   width:100%;
+   z-index: 1;
+}
+section{
+   padding-top: 10em;
+}
+.body1
+{
+background-image: linear-gradient(to right,rgb(20, 174, 245), pink);
+
+}
+.heading1
+{
+   font-family: "Arial Black", sans-serif;
+   font-size: 50px;
+   letter-spacing: -1px;
+  
+
+   color: white;
+   margin:50px;
+   margin-bottom: -10px;
+   margin-top:10px;
+   text-align: end;
+   margin-right: 10%;
+}
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+.fa-linkedin {
+background: #042fa5;
+color: white;
+}
+.fa{
+border-radius: 50%;
+}
+.image1
+{
+width:500px;
+border-radius:10%;
+}
